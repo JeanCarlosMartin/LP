@@ -1,6 +1,6 @@
 # LP
 
-#restaurar padrão config Linux
+#Restaurar padrão config Linux
 
 docker context use default
 
